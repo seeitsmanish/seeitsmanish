@@ -3,9 +3,8 @@
 <img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 - ✅ Skilled in MERN Stack.
-- 🌱 Diving into Advanced TypeScript.
+- 🌱 Liked to explore Web Performance.
 - 🤓 Trying out Open Source Contributions.
-- ⚡ Fun fact: I've written so much code that even my coffee mug has a custom error handler! ☕😄
 
 
 ## Reach me
