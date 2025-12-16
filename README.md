@@ -1,15 +1,34 @@
-## Hi there, I'm Manish Sharma 👋
+## Hi, I'm Manish Sharma 👋  
+**Software Engineer | Frontend & Full-Stack | Performance-Driven Builder**
 
-<img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+I build clean, scalable web applications with a strong focus on **performance, DX, and real-world usability**.  
+Currently working as an Associate Software Developer, shipping production features and optimizing live systems.
 
-- ✅ Skilled in MERN Stack.
-- 🌱 Likes to explore Web Performance.
-- 🤓 Trying out Open Source Contributions.
+---
 
+### 🧠 What I work on
+- ⚡ Frontend systems using **React, TypeScript, Tailwind**
+- 🧩 Full-stack apps with **Node.js, Express, Prisma**
+- 🌐 Real-time & collaborative tools (WebSockets)
 
-## Reach me
+---
 
+### 🔨 Tech Stack
+**Frontend:** React, TypeScript, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express, FastAPI  
+**Databases:** PostgreSQL, Redis  
+**Tooling:** Vite, Webpack, Prisma, Git  
+**Other:** WebSockets, SEO, System Design basics
+
+---
+
+### 📫 Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/seeitsmanish/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/640px-LinkedIn_icon.svg.png" alt="saumya1singh" height="40" width="40" /></a> &nbsp;
-<a href="mailto:seeitsmanish@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mankaransingh39" height="55" width="45" /></a> &nbsp;
-<a href="https://leetcode.com/seeitsmanish/" target="blank"><img align="center" src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" height="50" width="50" /></a> &nbsp;
+  <a href="https://www.linkedin.com/in/seeitsmanish/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="32" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:seeitsmanish@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="36" />
+  </a>
+</p>
