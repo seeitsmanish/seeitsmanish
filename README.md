@@ -17,11 +17,11 @@ Currently working as an Associate Software Developer, contributing to **producti
 Currently deep diving into **core ML and applied AI concepts**, with a focus on understanding how modern AI systems work:
 - [x] Core ML Theory => Attention, Transformers, LLMs 
 - [x] Prompt Engineering & LLM Integration  
-- [x]Chunking strategies
+- [x] Chunking strategies
 - [ ] Pytorch, Tensorflow, Training Models -> I am here
-- Embeddings & Vector Databases  
-- Retrieval-Augmented Generation (RAG)  
-- Agentic workflows
+- [ ] Embeddings & Vector Databases  
+- [ ] Retrieval-Augmented Generation (RAG)  
+- [ ] Agentic workflows
 
 ---
 
