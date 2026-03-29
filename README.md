@@ -1,24 +1,37 @@
 ## Hi, I'm Manish Sharma 👋  
-**Software Engineer | Frontend & Full-Stack | Performance-Driven Builder**
+**Full Stack Developer (Frontend-Heavy) | 2+ Years Experience | Performance-Focused**
 
-I build clean, scalable web applications with a strong focus on **performance, DX, and real-world usability**.  
-Currently working as an Associate Software Developer, shipping production features and optimizing live systems.
+I build **clean, scalable, and high-performance web applications** with a strong focus on **user experience, system design, and real-world usability**.  
+Currently working as an Associate Software Developer, contributing to **production systems serving thousands of users daily**.
 
 ---
 
 ### 🧠 What I work on
-- ⚡ Frontend systems using **React, TypeScript, Tailwind**
-- 🧩 Full-stack apps with **Node.js, Express, Prisma**
-- 🌐 Real-time & collaborative tools (WebSockets)
+- ⚡ Frontend systems using **React, TypeScript, Next.js**
+- 🧩 Full-stack applications with **Node.js, Express, FastAPI**
+- 🚀 Team Player | Readability > Complexity | Collaboration | Coffee
+
+---
+
+### 🤖 Exploring AI & LLMs
+Currently deep diving into **core ML and applied AI concepts**, with a focus on understanding how modern AI systems work:
+- [x] Core ML Theory => Attention, Transformers, LLMs 
+- [x] Prompt Engineering & LLM Integration  
+- [x]Chunking strategies
+- [ ] Pytorch, Tensorflow, Training Models -> I am here
+- Embeddings & Vector Databases  
+- Retrieval-Augmented Generation (RAG)  
+- Agentic workflows
 
 ---
 
 ### 🔨 Tech Stack
-**Frontend:** React, TypeScript, Next.js, Tailwind CSS  
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, SCSS  
 **Backend:** Node.js, Express, FastAPI  
-**Databases:** PostgreSQL, Redis  
-**Tooling:** Vite, Webpack, Prisma, Git  
-**Other:** WebSockets, SEO, System Design basics
+**Databases:** PostgreSQL, MySQL, Redis  
+**AI/LLM:** LangChain, LLM Integration, Prompt Engineering  
+**Tooling:** Vite, Webpack, Prisma, Docker, AWS EC2, Git  
+**Other:** WebSockets, SEO, Core Web Vitals, System Design  
 
 ---
 
